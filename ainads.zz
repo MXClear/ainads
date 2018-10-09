@@ -1,4 +1,10 @@
 [{
+	"title": "Music Paradise Pro",
+	"pkn": "com.nannings.pro",
+	"content": "Download Music For Free",
+	"icon": "https://raw.githubusercontent.com/Mera007/mpdownloads/master/img/logo.png",
+	"big_icon": "https://raw.githubusercontent.com/Mera007/mpdownloads/master/img/logo.png"
+}, {
 	"title": "iPhone XS LockScreen",
 	"pkn": "com.Ilock.Ios12.IphoneLockscreen",
 	"content": "The new iPhone LockScreen on Google Play",
