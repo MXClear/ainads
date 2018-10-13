@@ -1,10 +1,4 @@
 [{
-	"title": "Free Music Downloader",
-	"pkn": "com.music.player.bmmera.pro",
-	"content": "Free to download 1000000 mp3 music.",
-	"icon": "https://raw.githubusercontent.com/Mera007/mpdownloads/master/img/logo.png",
-	"big_icon": "https://raw.githubusercontent.com/Mera007/mpdownloads/master/img/logo.png"
-},{
 	"title": "iPhone XS Launcher",
 	"pkn": "com.launcher.Ios12.Iphone",
 	"content": "The new iPhone Launcher on Google Play",
